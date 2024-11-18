@@ -1,5 +1,5 @@
 import React from 'react';
-import { logo,pharma } from '../assets';
+import { logo, pharma } from '../assets';
 
 function Footer() {
   return (
@@ -37,9 +37,9 @@ function Footer() {
 
           {/* Ishan Pharma Information */}
           <div>
-          <img
+            <img
               src={pharma}
-              alt="Ishan Transport Services Logo"
+              alt="Ishan Pharma Logo"
               className="w-20 h-auto mb-4"
             />
             <h3 className="text-xl font-bold mb-4">Ishan Pharma</h3>
@@ -91,6 +91,9 @@ function Footer() {
         <div className="text-center">
           <p className="text-sm">
             © {new Date().getFullYear()} Ishan Transport Services & Ishan Pharma. All rights reserved.
+          </p>
+          <p className="text-sm">
+            Designed & Developed by Priyanshu Sharma
           </p>
         </div>
       </div>

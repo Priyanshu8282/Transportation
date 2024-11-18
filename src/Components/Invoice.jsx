@@ -8,7 +8,7 @@ function Invoice() {
     // Hide the invoice image after 5 seconds
     const timer = setTimeout(() => {
       setShowInvoice(false);
-    }, 2000);
+    }, 4000);
 
     return () => clearTimeout(timer);
   }, []);

@@ -62,7 +62,7 @@ function Contact() {
         <meta name="description" content="Get in touch with Ishan Transport Services. We are here to assist you with your transport needs." />
         <meta name="keywords" content="contact, transport services, Ishan Transport Services" />
       </Helmet>
-      <div className="bg-yellow-100 py-16 px-4 text-gray-800">
+      <div className="bg-yellow-100 py-16 px-4 text-gray-800" id="contact">
         <div className="max-w-5xl mx-auto text-center">
           {/* Heading */}
           <motion.h2

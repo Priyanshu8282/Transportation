@@ -19,7 +19,6 @@ function HeroSection() {
   return (
     <>
       <Helmet>
-        <title>Home - Ishan Transport Services</title>
         <meta name="description" content="Welcome to Ishan Transport Services. We provide fast, reliable, and affordable transport solutions." />
         <meta name="keywords" content="home, transport services, Ishan Transport Services" />
       </Helmet>

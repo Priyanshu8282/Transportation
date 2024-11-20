@@ -6,7 +6,7 @@ function About() {
   return (
     <>
       <Helmet>
-        <title>About Us - Ishan Transport Services</title>
+  
         <meta name="description" content="Learn more about Ishan Transport Services and our commitment to providing fast, reliable, and affordable transport solutions." />
         <meta name="keywords" content="about, transport services, Ishan Transport Services" />
       </Helmet>

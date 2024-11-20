@@ -24,7 +24,7 @@ function Services() {
   return (
     <>
       <Helmet>
-        <title>Our Services - Ishan Transport Services</title>
+    
         <meta name="description" content="Explore the wide range of transport and logistics services offered by Ishan Transport Services, including express delivery, freight shipping, and warehousing." />
         <meta name="keywords" content="services, transport services, logistics, express delivery, freight shipping, warehousing, Ishan Transport Services" />
       </Helmet>

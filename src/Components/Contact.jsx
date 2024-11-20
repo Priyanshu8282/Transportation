@@ -58,7 +58,7 @@ function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact Us - Ishan Transport Services</title>
+       
         <meta name="description" content="Get in touch with Ishan Transport Services. We are here to assist you with your transport needs." />
         <meta name="keywords" content="contact, transport services, Ishan Transport Services" />
       </Helmet>
